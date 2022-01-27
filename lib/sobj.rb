@@ -1,0 +1,5 @@
+require "colorize"
+require_relative "sobj/runner"
+require_relative "sobj/version"
+require_relative "sobj/compiler"
+require_relative "sobj/code"

@@ -1,0 +1,8 @@
+(robot "foo"
+  (wheel "front_left")
+  (wheel "front_right")
+  (engine "porsche")
+  (color "blue")
+  (version 1.2)
+  (position 3.14 5.567)
+)

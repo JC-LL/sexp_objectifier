@@ -1,0 +1,12 @@
+(polygon "test"
+  (point "A"
+    (coord 1 2)
+  )
+  (point "B"
+    (coord 4 3)
+  )
+  (point "C"
+    (coord 17 28)
+    (color "blue")
+  )
+)

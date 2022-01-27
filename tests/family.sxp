@@ -1,0 +1,25 @@
+(familly "Holmes"
+
+  (person
+    (last_name "Holmes")
+    (first_name "Sherlock")
+    (age 51)
+    (address
+      (number 3)
+      (street "Baker Street")
+      (town "London")
+    )
+  )
+
+  (person
+    (last_name "Holmes")
+    (first_name "Emma")
+    (gender "female")
+    (age 23)
+    (address
+      (number 113)
+      (street "Avenue Bach")
+      (town "Paris")
+    )
+  )
+)

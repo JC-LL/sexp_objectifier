@@ -1,0 +1,26 @@
+(familly "Dupont"
+
+  (person
+    (name "Dupont")
+    (surname "Emma")
+    (gender "female")
+    (age 44)
+    (address
+      (number 3)
+      (street "Baker Street")
+      (town "London")
+    )
+  )
+
+  (person
+    (name "Dupont")
+    (surname "Tom")
+    (gender "male")
+    (age 23)
+    (address
+      (number 113)
+      (street "Avenue Bach")
+      (town "Paris")
+    )
+  )
+)
